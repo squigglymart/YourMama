@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Tourney:ital,wght@0,100..900;1,100..900&family=VT323&family=Yarndings+20&display=swap');
+
+img{
+    width: 50%;
+}
+body{
+    text-align: center;
+    font-family: 'VT323';
+    background-color:plum
+}
+p{
+    font-family:'EB+Garamond';
+}
+.differentfont{
+    font-family:'Yarndings20'
+}
